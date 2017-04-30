@@ -138,7 +138,7 @@ The following code will print the kappa value of your sequence to the terminal p
     SeqOb.save_phaseDiagramPlot('my_snazzy_plot')
     
     # For publications we recommend using vector graphics and saving plots as PDF files 
-    SeqOb.save_phaseDiagramPlot('my_snazzy_plot', saveFormat='pdf'))
+    SeqOb.save_phaseDiagramPlot('my_snazzy_plot.pdf', saveFormat='pdf')
     
     
 #### Interactive help
